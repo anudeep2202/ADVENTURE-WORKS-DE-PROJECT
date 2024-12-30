@@ -1,6 +1,7 @@
 # ADVENTURE-WORKS-DE-PROJECT
 
 OVERVIEW
+
 Azure Data Factory: Extracted and loaded Adventure Works data from a GitHub repository into the Bronze layer of an Azure Data Lake. 
 Azure Databricks & PySpark: Transformed raw data in the Bronze layer and stored the processed data in the Silver layer.
 Azure Synapse Analytics: Performed advanced transformations and modeled the data as tables in the Gold layer for analytics-ready insights.
