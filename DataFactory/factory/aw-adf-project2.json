@@ -1,0 +1,9 @@
+{
+	"name": "aw-adf-project2",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4468da9c-d39d-4892-9a8e-43408d179390",
+		"tenantId": "8a2e108a-4fbb-4af5-b681-37fbaae0c3a5"
+	}
+}
